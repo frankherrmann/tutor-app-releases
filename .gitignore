@@ -1,0 +1,11 @@
+# SCHUTZWALL — dieses Repository ist OEFFENTLICH.
+# Hier gehoeren NUR README.md und LICENSE.md hinein.
+# Die Installationsdateien liegen als Release-Anhaenge, NICHT im Repo.
+#
+# Die folgenden Regeln sind eine zusaetzliche Sicherung gegen versehentliches
+# Hinzufuegen von Quellcode, Konfiguration oder — vor allem — echten Schuelerdaten.
+
+*
+!README.md
+!LICENSE.md
+!.gitignore
