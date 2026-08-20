@@ -54,7 +54,8 @@ verschlüsselt auf dem Gerät erhalten; ohne Lizenz sind sie lediglich nicht meh
 Alle Daten liegen **ausschließlich lokal** auf dem eigenen Gerät, verschlüsselt
 mit einem selbst vergebenen Master-Passwort. Es gibt keine Cloud-Anbindung und
 keine Telemetrie. Der einzige Netzwerkzugriff ist die **manuell ausgelöste**
-Update-Prüfung; dabei werden keine personenbezogenen Daten übertragen.
+Update-Prüfung: Sie fragt hier bei GitHub die Nummer der neuesten Version ab und
+überträgt dabei keine personenbezogenen Daten und keine Kennungen aus der App.
 
 ---
 

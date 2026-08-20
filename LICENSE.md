@@ -62,8 +62,11 @@ Die Software verarbeitet personenbezogene Daten **ausschließlich lokal** auf
 deinem Gerät, verschlüsselt mit einem von dir vergebenen Master-Passwort. Es
 findet keine Übertragung an den Lizenzgeber oder an Dritte statt; es gibt keine
 Cloud-Anbindung und keine Telemetrie. Der einzige Netzwerkzugriff ist die von
-dir manuell ausgelöste Update-Prüfung, bei der keine personenbezogenen Daten
-übertragen werden.
+dir manuell ausgelöste Update-Prüfung. Sie ruft die Nummer der neuesten
+veröffentlichten Version bei GitHub ab; personenbezogene Daten oder Kennungen
+aus der Software werden dabei nicht übertragen. Wie bei jedem Abruf einer
+Internetseite ist dem abgerufenen Dienst dabei die IP-Adresse deines Anschlusses
+technisch bekannt. Die Funktion ist optional und kann ungenutzt bleiben.
 
 **Verantwortliche Stelle im Sinne des Art. 4 Nr. 7 DSGVO bleibst du bzw. deine
 Schule.** Der Lizenzgeber erhält keinen Zugriff auf die verarbeiteten Daten und
