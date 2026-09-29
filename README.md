@@ -3,7 +3,7 @@
 Offizielle Installationsdateien der **Tutor-App**, einem lokalen Desktop-Werkzeug
 für Oberstufen-Tutorinnen und -Tutoren am beruflichen Gymnasium in Hessen.
 
-> **Alle Infos, Screenshots, Handbuch und Kauf:**
+> **Alle Infos, Screenshots und Handbuch:**
 > **<https://drherrmann.org/downloads/tutor-app/>**
 
 Dieses Repository enthält **ausschließlich die fertigen Installationsdateien**
@@ -36,16 +36,14 @@ zeigt beim ersten Start eine Warnung — über „Weitere Informationen" →
 
 ---
 
-## Testen und freischalten
+## Kostenlos und ohne Einschränkungen
 
-Die App läuft **14 Tage uneingeschränkt als Testversion**. Danach wird eine
-Seriennummer benötigt, die es auf der
-[Produktseite](https://drherrmann.org/downloads/tutor-app/) gibt. Die
-Freischaltung erfolgt **offline** — die App verlangt dafür keinen Internetzugang.
+Die Tutor-App ist **kostenlos** nutzbar, im vollen Funktionsumfang. Es gibt keine
+Testphase, keine Seriennummer und keine Registrierung.
 
-Deine Daten bleiben auch nach Ablauf der Testphase unverändert und
-verschlüsselt auf dem Gerät erhalten; ohne Lizenz sind sie lediglich nicht mehr
-über die App zugänglich.
+Wer eine frühere Fassung als Testversion oder mit Seriennummer genutzt hat, muss
+nichts tun: Nach dem Update entfällt die Lizenzprüfung, die Daten bleiben
+unverändert.
 
 ---
 
@@ -63,6 +61,7 @@ Update-Prüfung: Sie fragt hier bei GitHub die Nummer der neuesten Version ab un
 
 Die Nutzung regelt der **[Endnutzer-Lizenzvertrag (LICENSE.md)](LICENSE.md)**.
 Die Installationsdateien sind urheberrechtlich geschützt; sie dürfen kostenlos
-heruntergeladen und getestet, aber nicht weitergegeben oder verändert werden.
+heruntergeladen und genutzt, aber nicht verändert, verkauft oder an anderer
+Stelle zum Download angeboten werden. Weitergeben darfst du jederzeit den Link.
 
 © Dr. Frank Herrmann · <https://drherrmann.org>
