@@ -20,19 +20,29 @@ Diese Links zeigen **immer auf die neueste Fassung** und ändern sich nie:
 | **macOS** (Intel + Apple Silicon) | [Tutor-App-macOS.dmg](../../releases/latest/download/Tutor-App-macOS.dmg) — signiert und von Apple notarisiert |
 | **Windows 10/11** | [Tutor-App-Windows-Setup.exe](../../releases/latest/download/Tutor-App-Windows-Setup.exe) — empfohlen |
 | Windows (Alternative für Administratoren) | [Tutor-App-Windows.msi](../../releases/latest/download/Tutor-App-Windows.msi) |
+| **Linux** (Debian, Ubuntu, Linux Mint) | [Tutor-App-Linux.deb](../../releases/latest/download/Tutor-App-Linux.deb) — empfohlen |
+| Linux (ohne Installation) | [Tutor-App-Linux.AppImage](../../releases/latest/download/Tutor-App-Linux.AppImage) |
 
 Jedem Release liegen dieselben Dateien zusätzlich **mit Versionsnummer im Namen**
 bei (z. B. `Tutor-App_2.16.0_universal.dmg`), falls eine bestimmte Fassung
 gebraucht wird. Alle Fassungen: **[Releases](../../releases)**.
 
-Jedes veröffentlichte Release enthält **immer sowohl eine macOS- als auch eine
-Windows-Fassung**. Solange nicht beide vorliegen, bleibt das Release ein
+Jedes veröffentlichte Release enthält **immer eine macOS-, eine Windows- und
+eine Linux-Fassung**. Solange nicht alle vorliegen, bleibt das Release ein
 Entwurf und ist hier nicht sichtbar — die Links oben zeigen dann weiterhin auf
 die letzte vollständige Fassung und laufen nie ins Leere.
 
 **Hinweis zu Windows:** Der Windows-Installer ist nicht code-signiert. SmartScreen
 zeigt beim ersten Start eine Warnung — über „Weitere Informationen" →
 „Trotzdem ausführen" lässt sie sich bestätigen. Auf macOS tritt das nicht auf.
+
+**Hinweis zu Linux:** Gebaut auf Ubuntu 22.04 — läuft auf **Linux Mint 21 und 22**
+sowie Ubuntu ab 22.04. Das `.deb` installiert die App per Doppelklick samt
+Startmenü-Eintrag. Das `.AppImage` braucht keine Installation und keine
+Administratorrechte: einmal ausführbar machen (Rechtsklick → Eigenschaften →
+Zugriffsrechte → „Datei als Programm ausführen"), dann per Doppelklick starten.
+Unter **Wayland** sperrt sich die App bei Inaktivität nicht von selbst (unter
+X11, dem Standard bei Linux Mint, schon); manuelles Sperren funktioniert überall.
 
 ---
 
