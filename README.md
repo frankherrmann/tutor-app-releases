@@ -4,7 +4,7 @@ Offizielle Installationsdateien der **Tutor-App**, einem lokalen Desktop-Werkzeu
 für Oberstufen-Tutorinnen und -Tutoren am beruflichen Gymnasium in Hessen.
 
 > **Alle Infos, Screenshots und Handbuch:**
-> **<https://drherrmann.org/downloads/tutor-app/>**
+> **<https://drherrmann.org/tutor-app/>**
 
 Dieses Repository enthält **ausschließlich die fertigen Installationsdateien**
 (unter „Releases"). Der Quellcode ist nicht öffentlich.
