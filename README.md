@@ -18,8 +18,7 @@ Diese Links zeigen **immer auf die neueste Fassung** und ändern sich nie:
 | System | Download |
 |---|---|
 | **macOS** (Intel + Apple Silicon) | [Tutor-App-macOS.dmg](../../releases/latest/download/Tutor-App-macOS.dmg) — signiert und von Apple notarisiert |
-| **Windows 10/11** | [Tutor-App-Windows-Setup.exe](../../releases/latest/download/Tutor-App-Windows-Setup.exe) — empfohlen |
-| Windows (Alternative für Administratoren) | [Tutor-App-Windows.msi](../../releases/latest/download/Tutor-App-Windows.msi) |
+| **Windows 10/11** | [Tutor-App-Windows-Setup.exe](../../releases/latest/download/Tutor-App-Windows-Setup.exe) |
 | **Linux** (Debian, Ubuntu, Linux Mint) | [Tutor-App-Linux.deb](../../releases/latest/download/Tutor-App-Linux.deb) — empfohlen |
 | Linux (ohne Installation) | [Tutor-App-Linux.AppImage](../../releases/latest/download/Tutor-App-Linux.AppImage) |
 
